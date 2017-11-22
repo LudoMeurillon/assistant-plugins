@@ -6,6 +6,7 @@
   "dependencies": {
     "castv2-client": "^1.2.0",
     "google-tts-api": "0.0.2",
+    "mdns": "^2.3.4",
     "promise": "^8.0.1",
     "pushbullet": "^2.1.0",
     "request": "^2.83.0",
